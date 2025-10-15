@@ -1107,11 +1107,15 @@ footer {
 
   .card__body {
     max-width: 100%;
-    /* height: 25rem; */
+    height: 28rem;
   }
 
   .who-are-we-main-container {
     padding: 3rem 0;
+  }
+
+  .cud__card__details a {
+    font-size: 2rem;
   }
 }
 
